@@ -27,7 +27,7 @@ return [
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'tomos-minimal',
+        'name' => 'tomos-blog',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
