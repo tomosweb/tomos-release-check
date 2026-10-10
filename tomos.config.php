@@ -20,8 +20,8 @@ if (!is_string($tomosRoot) || trim($tomosRoot) === '') {
 
 return [
     'site' => [
-        'name' => $siteName,
-        'description' => '',
+        'name' => 'Tomos リリース検証',
+        'description' => 'Tomos GitHub版の正式テンプレート検証サイトです。',
         'url' => 'https://' . $owner . '.github.io',
         'base_path' => $basePath,
         'language' => 'ja',
